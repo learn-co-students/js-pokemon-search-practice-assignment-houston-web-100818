@@ -44,3 +44,10 @@ input:focus {
 .flip-image {
   color: #2d72fc;
 }
+
+.center-image {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
